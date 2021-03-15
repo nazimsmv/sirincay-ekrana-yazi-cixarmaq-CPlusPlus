@@ -1,0 +1,1 @@
+# -irin-ay-C-Ekrana-M-tin-xarmaq

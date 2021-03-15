@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
- cout<<"istediyiniz sözu yazın"; 
+ cout<<"istediyiniz sozu yazin"; 
 getch();
 return(0);
 }

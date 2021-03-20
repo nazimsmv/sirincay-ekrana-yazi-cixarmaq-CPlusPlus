@@ -1,9 +1,9 @@
 #include <iostream>
 #include <conio.h>
-using namespace std;
+using namespace std:
 
 int main(){
- cout<<"istediyiniz sozu yazin"; 
-getch();
-return(0);
+ cout<<"istediyiniz sozu siktirin"; 
+get();
+return(10);
 }
